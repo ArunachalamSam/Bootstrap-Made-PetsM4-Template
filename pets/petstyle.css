@@ -1,0 +1,91 @@
+    /* Style for the image container */
+    .image-container {
+        position: relative;
+        max-width: 100%;
+    }
+
+    /* Style for the text overlay */
+    .text-overlay {
+        position: absolute;
+        top: 50%;
+        left: 35%;
+        transform: translate(-50%, -50%);
+        color: white;
+        padding: 10px;
+        font-size: 24px;
+        text-align: center;
+    }
+    .text-overll{
+        position: absolute;
+        top: 60%;
+        left: 55%;
+        transform: translate(-50%, -50%);
+        color: white;
+        padding: 10px;
+        font-size: 24px;
+        text-align: center;
+    }
+    .arun1{
+        position: absolute;
+        top: 50%;
+        left: 55%;
+        transform: translate(-50%, -50%);
+        color: white;
+        padding: 10px;
+        font-size: 35px;
+        text-align: center;
+    }
+    .position-relative {
+        position: relative;
+    }
+    .arun3{
+        background-color: #F2F2F4;
+    }
+
+
+    .arun4{
+        color: #4CBB17;
+        font-size: 60px;
+    }
+
+    .card i{
+        text-align: center;
+        margin: 20px;
+    }
+    .arun5{
+        color: #4CBB17;
+        font-size: 30px;
+    }
+    .arun6{
+        color: #4CBB17;
+        font-size: 100px;
+    }
+    .arun6:hover {
+        border: 0;
+        color: #5535F0;
+        width: 98%;
+        font-weight: bold;
+        border-radius: 20px;
+        height: 40px;
+        transition: all 0.2s ease;
+  }
+  .arun7{
+    border: 1px solid transparent;
+    background-color: #F2F2F4;
+  }
+ .arun8{
+    border: 1px solid transparent;
+ }
+ .arun9{
+    font-size: 60px;
+ }
+ .custom-rounded {
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+  }
+  .absolute-image {
+    position: absolute;
+  }
+  
+
